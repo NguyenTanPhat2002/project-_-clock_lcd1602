@@ -1,0 +1,17 @@
+../Core/Src/main.c:78:6:clock_time_update	24	static
+../Core/Src/main.c:107:6:up_down_number	16	static
+../Core/Src/main.c:127:9:check_leap_year	16	static
+../Core/Src/main.c:136:9:get_max_date	16	static
+../Core/Src/main.c:156:6:setting_blink	64	static
+../Core/Src/main.c:204:6:ajust_time	24	static
+../Core/Src/main.c:260:6:btn_pressing_callback	16	static
+../Core/Src/main.c:271:6:btn_press_short_callback	16	static
+../Core/Src/main.c:308:6:btn_press_timeout_callback	16	static
+../Core/Src/main.c:320:6:check_alarm	4	static
+../Core/Src/main.c:328:6:alarm_screen	24	static
+../Core/Src/main.c:362:6:clock_handle	8	static
+../Core/Src/main.c:391:5:main	8	static
+../Core/Src/main.c:454:6:SystemClock_Config	72	static
+../Core/Src/main.c:494:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:528:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:567:6:Error_Handler	4	static,ignoring_inline_asm

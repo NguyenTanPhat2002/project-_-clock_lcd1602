@@ -1,0 +1,6 @@
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/RTC.c:11:9:Decimal2BCD	16	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/RTC.c:15:9:BCD2Decimal	16	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/RTC.c:20:6:RTC_WriteTime	32	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/RTC.c:34:6:RTC_ReadTime	40	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/RTC.c:49:9:RTC_READ_DAY_OF_WEEK	24	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/RTC.c:57:6:RTC_Init	16	static

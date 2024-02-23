@@ -1,0 +1,6 @@
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/btn.c:7:13:btn_pressing_callback	16	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/btn.c:12:13:btn_press_short_callback	16	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/btn.c:17:14:btn_release_callback	16	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/btn.c:22:13:btn_press_timeout_callback	16	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/btn.c:28:7:button_handle	24	static
+C:/Users/LAPTOP/Desktop/Embedded System/project_dongho/Mylib/btn.c:73:6:button_init	24	static
